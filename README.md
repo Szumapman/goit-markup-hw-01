@@ -1,7 +1,7 @@
 # Zadanie domowe #1 - HTML CSS
 
-[!IMPORTANT] 
-[Maket](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=bNq3w1Gp8CRO3xHF-0)
+> [!IMPORTANT] 
+> [Maket](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=bNq3w1Gp8CRO3xHF-0)
 
 Stwórz repozytorium `goit-markup-hw-01`. Wykonaj HTML-owy układ strony domowej zadania domowego #1, bez stylizacji CSS. Skonfiguruj GitHub Pages i dodaj link do żywej strony w sekcji O repozytorium GitHub.
 ## Kryteria akceptacji przez mentora:
